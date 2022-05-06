@@ -20,7 +20,7 @@ namespace oppgave3
         }
         static void Ingenting()
         {
-            return;
+            return;;
         }
     }
 }
