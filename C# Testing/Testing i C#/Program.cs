@@ -40,21 +40,7 @@ namespace ConsoleApp2
             //var f3 = 5.5f;
             //var d3 = 9.9;
             //var s3 = "text";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            
             if (args.Length == 0)
             {
                 Console.WriteLine("Fuck Mannen ingen Parameteres her nå as.");
