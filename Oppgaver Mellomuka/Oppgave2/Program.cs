@@ -113,7 +113,7 @@ namespace PasswordGenerator
             Console.WriteLine("         Min. 1 lower case");
             Console.WriteLine("         Min. 1 upper case");
             Console.WriteLine("         Min. 2 special characters");
-            Console.WriteLine("         Min. 2 digits");
+            Console.WriteLine("         Min. 3 digits");
         }
     }
 }
