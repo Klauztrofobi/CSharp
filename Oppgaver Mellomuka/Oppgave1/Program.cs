@@ -25,7 +25,7 @@ namespace Oppgave1
                     {
                         var character = (char)i;
                         var percentage = 100 * (double)counts[i] / totalLetters;
-                        string output = character + " - " + percentage.ToString("F") + "%";
+                        string output = character + " - " + percentage.ToString("F2") + "%";
                         Console.CursorLeft = Console.BufferWidth - output.Length - 1;
                         Console.WriteLine(output);
                     }
